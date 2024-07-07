@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **SQL, Python, Power-Bi, Data-Visualization**
 
-- 📫 How to reach me **rsakshi3901@gmail.com**
+- 📫 How to reach me **sakshirathodunique@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
