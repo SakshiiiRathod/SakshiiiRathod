@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Data Analytics**
 
-- 🌱 I’m currently learning **Data WareHousing, Data Modelling**
-
 - 👯 I’m looking to collaborate with **various Intelligent minds**
 
 - 💬 Ask me about **SQL, Python, Power-Bi, Data-Visualization**
