@@ -1,13 +1,13 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/03/45/31/28/360_F_345312834_y1esquNNNnxZumL9UwVTnzg7qpeb95Dx.jpg)
 <h1 align="center">Hello👋, I'm Sakshi Rathod</h1>
-<h3 align="center">A passionate & Aspiring Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from Mumbai,India</h3>
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/L1R1tvI9svkIWwpVYr/200.webp?cid=790b7611by1ztwl1ghzdr5mfavh53ku9e2afnc4hnz3f6bl1&ep=v1_gifs_search&rid=200.webp&ct=g">
 
-- 🔭 I’m currently working on **Data Analytics**
+- 🔭 I’m currently working as a **Business Data Engineeer**
 
 - 👯 I’m looking to collaborate with **various Intelligent minds**
 
-- 💬 Ask me about **SQL, Python, Power-Bi, Data-Visualization**
+- 💬 Ask me about **SQL, Python, Power-Bi,ETL, Data-Visualization**
 
 - 📫 How to reach me **sakshirathodunique@gmail.com**
 
